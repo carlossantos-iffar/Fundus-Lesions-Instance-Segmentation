@@ -1,6 +1,6 @@
 # A New Approach for Fundus Lesions Instance Segmentation Based on Mask R-CNN X101-FPN Pre-Trained Architecture
 
-![](https://github.com/marcelosdias/Fundus-Lesions-Instance-Segmentation/blob/main/images/exmple-image.gif)
+![](https://github.com/carlossantos-iffar/Fundus-Lesions-Instance-Segmentation/blob/main/images/exmple-image.gif)
 
 
 ### Installation
@@ -85,4 +85,3 @@ cd ..
 * https://github.com/facebookresearch/detectron2
 * https://github.com/brunobelloni/binary-to-coco-json-converter
 * Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES)
-* Programa Institucional de Bolsas de Iniciação Científica - PROBIC/FAPERGS

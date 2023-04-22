@@ -1,4 +1,4 @@
-# A New Approach for Fundus Lesions Instance Segmentation
+# A New Approach for Fundus Lesions Instance Segmentation Based on Mask R-CNN X101-FPN Pre-Trained Architecture
 
 ![](https://github.com/marcelosdias/Fundus-Lesions-Instance-Segmentation/blob/main/images/exmple-image.gif)
 
@@ -73,12 +73,13 @@ cd ..
 ```
 
 ### Authors
-* **Marcelo Dias** - Computer Science, Federal University of Pelotas - UFPel, Pelotas, Brazil.
 * **Carlos Santos** - Federal Institute of Education, Science and Technology Farroupilha - IFFar, Alegrete, Brazil.
+* **Marcelo Dias** - Computer Science, Federal University of Pelotas - UFPel, Pelotas, Brazil.
 * **Marilton Aguiar** - Postgraduate Program in Computing, Federal University of Pelotas - UFPel, Pelotas, Brazil.
 * **Daniel Welfer** - Departament of Applied Computing, Federal University of Santa Maria - UFSM, Santa Maria, Brazil.
 * **Alejandro Pereira** - Computer Science, Federal University of Pelotas - UFPel, Pelotas, Brazil.
 * **Marcelo Ribeiro** - Computer Science, Federal University of Pelotas - UFPel, Pelotas, Brazil.
+* **Bruno Belloni** - Federal Institute of Education, Science and Technology Sul-Rio-Grandense - IFSul, Passo Fundo, Brazil.
 
 ### Acknowledgements
 * https://github.com/facebookresearch/detectron2

@@ -1,4 +1,10 @@
-# A New Approach for Fundus Lesions Instance Segmentation Based on Mask R-CNN X101-FPN Pre-Trained Architecture
+### Fundus Lesions Instance Segmentation
+```
+This repository contains the reference code for the article ''A New Approach for Fundus Lesions Instance Segmentation Based on Mask R-CNN X101-FPN Pre-Trained Architecture''.
+
+If you find the project useful and you use this code, please cite our article:
+
+
 
 ![](https://github.com/carlossantos-iffar/Fundus-Lesions-Instance-Segmentation/blob/main/images/exmple-image.gif)
 

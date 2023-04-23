@@ -88,4 +88,4 @@ cd ..
 
 ### Contact
 
-* **Carlos Santos** - mailto:carlos.santos@iffarroupilha.edu.br
+- [Carlos Santos] <a href = "carlos.santos@iffarroupilha.edu.br">

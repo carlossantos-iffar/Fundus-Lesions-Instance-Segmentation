@@ -31,9 +31,9 @@ You can try use this command: python -m pip install git+https://github.com/faceb
 
 ### Download proposed work
 
-- [Download the proposed work trained with ddr](https://github.com/carlossantos-iffar/Fundus-Lesions-Instance-Segmentation/releases/download/proposed-work-ddr/ddr.zip)
+- [Download the proposed work trained with ddr](https://github.com/carlossantos-iffar/Fundus-Lesions-Instance-Segmentation/releases/download/1.1/ddr.zip)
 
-- [Download the proposed work trained with idrid](https://github.com/carlossantos-iffar/Fundus-Lesions-Instance-Segmentation/releases/download/proposed-work-idrid/idrid.zip)
+- [Download the proposed work trained with idrid](https://github.com/carlossantos-iffar/Fundus-Lesions-Instance-Segmentation/releases/download/1.2/idrid.zip)
 
 You need to paste and extract .zip into the model folder
 

@@ -85,3 +85,7 @@ cd ..
 * https://github.com/facebookresearch/detectron2
 * https://github.com/brunobelloni/binary-to-coco-json-converter
 * Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES)
+
+### Contact
+
+- [Carlos Santos] <a href = "mailto:carlos.santos@iffarroupilha.edu.br">
